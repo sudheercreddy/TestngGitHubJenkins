@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-//added comments
+//added comments to push
 public class AllParamaeters_All {
 	@BeforeMethod
 	public void homePage() {
