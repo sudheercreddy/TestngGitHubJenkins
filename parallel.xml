@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.test.AllParamaeters_All"/>
+      <class name="com.test.InvocationCount"/>
+      <class name="com.test.TestNg_Webdriver"/>
+  
+      
+    </classes>
+ </test>
+ 
+  <test name="Regression suite 2" >
+    <classes>
+      <class name="com.test.AllParamaeters_All"/>
+      <class name="com.test.InvocationCount"/>
+      <class name="com.test.TestNg_Webdriver"/>
+  
+      
+    </classes>
+ </test>
+ 
+  <test name="Regression suite 3" >
+    <classes>
+      <class name="com.test.AllParamaeters_All"/>
+      <class name="com.test.InvocationCount"/>
+      <class name="com.test.TestNg_Webdriver"/>
+  
+      
+    </classes>
+ </test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1">
+	<test name="Parameters Run TestNg">
+
+		<parameter name="url" value="https://www.seleniumeasy.com/"/>
+		<parameter name="browser" value="chrome" />
+
+		<classes>
+			<class name="com.test.ParameterClass" />
+
+		</classes>
+	</test>
+</suite>
